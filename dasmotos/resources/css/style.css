@@ -1,0 +1,30 @@
+.banner{
+  background-image: url("../images/pattern.jpeg");
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+
+}
+
+.sub{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+.brushes .sub{
+  background-color: mediumspringgreen;
+}
+.frames .sub{
+  background-color: lightcoral;
+}
+.paint .sub{
+  background-color: skyblue;
+}
+.cost{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
